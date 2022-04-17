@@ -1,5 +1,8 @@
 # devoir-vue
 
+port: 3000
+```json-server --watch .\src\db.json```
+
 ## Project setup
 ```
 npm install

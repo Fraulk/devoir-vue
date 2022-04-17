@@ -1,0 +1,119 @@
+{
+  "utilisateurs": [
+    {
+      "id": 1,
+      "pseudo": "Alain",
+      "email": "alain@yahoo.fr",
+      "password": "123456",
+      "urlImgProfil": "https://thispersondoesnotexist.com/image"
+    },
+    {
+      "id": 2,
+      "pseudo": "Béatrice",
+      "email": "bea@yahoo.fr",
+      "password": "123456",
+      "urlImgProfil": "https://thispersondoesnotexist.com/image"
+    },
+    {
+      "pseudo": "aaa",
+      "email": "a@a.com",
+      "password": "aaaaaaa",
+      "urlImgProfil": "https://thispersondoesnotexist.com/image",
+      "id": 3
+    },
+    {
+      "pseudo": "bbbb",
+      "email": "b@b.vom",
+      "password": "bbbbbbb",
+      "urlImgProfil": "https://thispersondoesnotexist.com/image",
+      "id": 4
+    },
+    {
+      "pseudo": "patate",
+      "email": "pa@ta.te",
+      "password": "patate",
+      "urlImgProfil": "https://thispersondoesnotexist.com/image",
+      "id": 5
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "contenu": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, excepturi magni natus qui ut, delectus voluptatibus cum eligendi doloribus ab impedit repellendus iste distinctio suscipit ad veniam, maiores rerum dolorem.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, excepturi magni natus qui ut, delectus voluptatibus cum eligendi doloribus ab impedit repellendus iste distinctio suscipit ad veniam, maiores rerum dolorem.",
+      "urlImgArticle": "https://source.unsplash.com/random/1000x300",
+      "like": 2,
+      "pseudo": "Alain",
+      "date": 1649277945051,
+      "commentaires": [
+        {
+          "id": 1,
+          "contenu": "lorem ipsum",
+          "pseudo": "Béatrice",
+          "dt": 1000000000000
+        },
+        {
+          "id": 2,
+          "contenu": "lorem ipsum",
+          "pseudo": "Michelle",
+          "dt": 1101000000100
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "contenu": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, excepturi magni natus qui ut, delectus voluptatibus cum eligendi doloribus ab impedit repellendus iste distinctio suscipit ad veniam, maiores rerum dolorem.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe, excepturi magni natus qui ut, delectus voluptatibus cum eligendi doloribus ab impedit repellendus iste distinctio suscipit ad veniam, maiores rerum dolorem.",
+      "urlImgArticle": "https://source.unsplash.com/random/1000x300",
+      "like": 202,
+      "pseudo": "Patrick",
+      "date": 1649277915055,
+      "commentaires": [
+        {
+          "id": 2,
+          "contenu": "lorem ipsum",
+          "pseudo": "Evan",
+          "dt": 1649277945051
+        },
+        {
+          "id": 1,
+          "contenu": "lorem ipsum",
+          "pseudo": "Azertyuiop",
+          "dt": 1649277945051
+        }
+      ]
+    },
+    {
+      "contenu": "TESTSETSETSETSETSETSETSE",
+      "urlImgArticle": "https://source.unsplash.com/random/1000x300",
+      "like": 0,
+      "date": 1650208633892,
+      "commentaires": [],
+      "id": 3
+    },
+    {
+      "contenu": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n",
+      "urlImgArticle": "https://source.unsplash.com/random/1000x300",
+      "like": 0,
+      "date": 1650208666607,
+      "commentaires": [],
+      "id": 4
+    },
+    {
+      "contenu": "babibfiezbgzeg\n",
+      "urlImgArticle": "https://source.unsplash.com/random/1000x300",
+      "like": 0,
+      "pseudo": "patate",
+      "date": 1650209235360,
+      "commentaires": [],
+      "id": 5
+    },
+    {
+      "contenu": "aaaaaaaaaaafezgereesth",
+      "urlImgArticle": "https://source.unsplash.com/random/1000x300",
+      "like": 0,
+      "pseudo": "aaa",
+      "date": 1650210356418,
+      "commentaires": [],
+      "id": 6
+    }
+  ]
+}
